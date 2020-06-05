@@ -1,0 +1,29 @@
+body {
+  font-size: small;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+/*так я могу оставлять себе сообщения в CSS*/
+h1, h2 {
+  color: #007e7e;
+  font-size: 150%;
+}
+
+h1 {
+  font-size: 130%;
+}
+
+p {
+  color: maroon;
+}
+
+p.blueberry {
+  color: purple;
+}
+
+p.greentea {
+  color: green;
+}
+
+p.raspberry {
+  color: blue;
+}
